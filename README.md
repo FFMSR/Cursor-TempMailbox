@@ -4,7 +4,7 @@ TempMailbox 是一个用于注册cursor免费账号临时邮箱工具，提供�
 
 ## 截图展示
 
-![TempMailbox 界面](screenshots/screenshot.png)
+![TempMailbox 界面](screenshot.png)
 
 ## 下载使用
 
